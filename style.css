@@ -53,6 +53,7 @@ body {
 
 .boton {
     background-color: cyan;
+    color: black;
 }
 
 .boton:hover{
