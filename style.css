@@ -12,12 +12,12 @@ body {
 .inicio {
     width: 400px;
     height: 360px;
-    background: rgb(255, 0, 0);
+    background:rgb(4, 100, 252);
     margin: auto;
     margin-top: 180px;
-    box-shadow: 7px 13px 37px rgb(253, 249, 2);
+    box-shadow: 7px 13px 37px rgb(253, 236, 2);
     padding: 20px 30px;
-    color: rgb(247, 243, 8);
+    color: rgb(247, 231, 8);
     
 
 }
@@ -32,22 +32,17 @@ body {
 
 .controls { 
     width: 100%;
-    border: 1px solid  rgb(255, 251, 0);
+    border: 1px solid  rgb(204, 172, 172);
     margin-bottom: 14px;
     padding: 11px 10px;
-    background: rgb(252, 255, 100);
+    background: rgb(189, 164, 164);
     font-size: 14px;
     font-weight: bold;
 
 
 }
 
-.buttons { 
-    width: 100%;
-    height: 40px;
-    background: rgb(252, 255, 100);
-    color:  rgb(0, 0, 0);;
-}
+
 .inicio p{
     height: 40px;
     text-align: center;
