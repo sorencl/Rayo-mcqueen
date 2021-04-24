@@ -50,3 +50,11 @@ body {
     margin-top: 10px;
     
 }
+
+.boton {
+    background-color: cyan;
+}
+
+.boton:hover{
+    background-color: gold;
+}
