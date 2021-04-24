@@ -12,7 +12,7 @@ body {
 .inicio {
     width: 400px;
     height: 360px;
-    background: rgb(138, 41, 62);
+    background:rgb(4, 100, 252);
     margin: auto;
     margin-top: 180px;
     box-shadow: 7px 13px 37px rgb(253, 236, 2);
@@ -42,12 +42,7 @@ body {
 
 }
 
-.buttons { 
-    width: 100%;
-    height: 40px;
-    background: rgb(255, 100, 100);
-    color:  rgb(0, 0, 0);;
-}
+
 .inicio p{
     height: 40px;
     text-align: center;
