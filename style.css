@@ -53,7 +53,6 @@ body {
 
 .boton {
     background-color: cyan;
-    color: black;
 }
 
 .boton:hover{
@@ -72,5 +71,17 @@ body {
 .trabajos{
     padding: 30px;
     background-color: white;
+
+}
+.form-group{ 
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-block: 1%;
+}
+
+.mb-4 {
+    margin-top: 1%;
+    margin-left: 3%;
+    font-family: helvetica;
 
 }
