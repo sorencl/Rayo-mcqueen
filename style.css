@@ -58,3 +58,18 @@ body {
 .boton:hover{
     background-color: gold;
 }
+
+.confirmacion {
+    padding: 30px;
+    background-color: white;
+    text-align: center;
+    width: 50%;
+    margin-top: 18%;
+    margin-left: 25%;
+
+}
+.trabajos{
+    padding: 30px;
+    background-color: white;
+
+}
